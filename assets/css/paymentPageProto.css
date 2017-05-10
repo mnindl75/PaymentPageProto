@@ -1,0 +1,38 @@
+.payment-page-proto nav {
+    margin: 8rem auto 3rem auto;
+}
+.payment-page-proto nav .c-stepper-nav {
+    overflow: visible;
+}
+.payment-page-proto hr {
+    width: auto;
+}
+.payment-page-proto nav .c-stepper-nav .is-active {
+    cursor: default;
+}
+.payment-page-proto nav .c-stepper-nav a.is-active:hover::before {
+    background-color: #ffffff;
+    border-color: #004666;
+}
+.payment-page-proto main {
+    max-width: 660px;
+    margin: 0 auto;
+}
+.payment-page-proto .creditcard-logos img {
+    height: 44px;
+}
+.payment-page-proto .creditcard-data {
+    background-color: #f2f2f2;
+}
+.payment-page-proto .price {
+    width: 200px;
+    margin: 0 auto 48px auto;
+}
+.payment-page-proto .submit-buttons {
+    width: 305px;
+    margin: 0 auto 0 auto;
+}
+.payment-page-proto .submit-buttons .c-btn {
+    width: 100%;
+}
+

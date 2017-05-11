@@ -42,6 +42,20 @@
 .payment-page-proto .submit-buttons .c-btn {
     width: 100%;
 }
+.payment-page-proto .errorbox {
+    padding: 18px;
+    color: #ffffff;
+    border-radius: 4px;
+    background-color: #FF4963;
+    border: 1px solid #FF4963;
+}
+.payment-page-proto .error {
+    color: #FF4963;
+}
+.payment-page-proto input.error, .payment-page-proto select.error {
+    border-color: #FF4963;
+}
+
 @media (min-width: 669px) {
     .payment-page-proto h2, .payment-page-proto .subline {
         margin-left: 0;
